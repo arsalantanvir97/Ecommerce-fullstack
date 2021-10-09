@@ -1,0 +1,92 @@
+.btn {
+  background-color: rgb(26, 118, 210) !important;
+  border-color: rgb(26, 118, 210) !important;
+  color: #fff !important;
+  border-radius: 1px;
+}
+.btn:hover {
+  background-color: rgb(32, 81, 131) !important;
+  border-color: rgb(32, 81, 131) !important;
+  color: #fff !important;
+}
+.ichov {
+  color: #fff !important;
+}
+.ichov:hover {
+  color: rgb(26, 118, 210) !important;
+}
+.navbar {
+  background-color: rgb(32, 32, 32) !important;
+}
+.carousel {
+  background-color: rgb(18, 18, 18) !important;
+}
+.goldcol {
+  color: gold;
+}
+.goldcol:hover {
+  color: rgb(233, 199, 8);
+}
+.card {
+  background-color: rgb(241, 241, 241) !important;
+  border-radius: 8px !important;
+}
+#username:hover {
+  color: rgb(26, 118, 210) !important;
+}
+#username {
+  color: #fff !important;
+}
+#adminmenu:hover {
+  color: rgb(26, 118, 210) !important;
+}
+#adminmenu {
+  color: #fff !important;
+}
+.padmar {
+  padding: 3px 0px;
+  margin-top: 26px;
+}
+.marg {
+  margin: 20px 0px;
+}
+.margg {
+  margin-top: 8px;
+}
+.form-control {
+  border-radius: 2px;
+}
+/* .card-img-top {
+  min-height: 180px;
+}
+.card-img-top {
+  min-height: 180px;
+} */
+
+.imghe.card-img-top {
+  min-height: 180px;
+}
+.imghe.card-img-top {
+  max-height: 180px;
+}
+.texhe.card-title {
+  min-height: 50px;
+}
+.texhe.card-title {
+  max-height: 80px;
+}
+#footer1 {
+  background-color: rgb(32, 32, 32);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+.imggg.img-fluid {
+  min-width: 260px !important;
+  min-height: 260px !important;
+  max-width: 260px !important;
+  max-height: 260px !important;
+}
